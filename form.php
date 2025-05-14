@@ -2,6 +2,7 @@
 Photo 請傳入連結<br>
 <form action="process.php" method="post">
 Name:<input type="text" name="name"><br>
+no:<input type="text" name="no"><br>
 Email:<input type="email" name="email"><br>
 Photo:<input type="text" name="photo"><br>
 <input type="submit" value="Register"><br>
